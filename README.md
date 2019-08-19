@@ -20,3 +20,7 @@ chmod +x run.sh
 
 The Dockerfile is monstrous, the flask server, redis server and node client deserve their own containers (potential for orchestration).
 
+## how to play
+
+* `http://localhost/join/x` -> lets you play as `X`’s
+* `http://localhost/join/o` -> lets you play as `O`’s
