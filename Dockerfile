@@ -34,7 +34,7 @@ ENV LC_ALL en_US.UTF-8
 # npm setup
 
 RUN mkdir /install
-ADD ./tictactoe-client/package.json /install
+ADD ./tictactoe-client/package.json /install/
 WORKDIR /install
 
 RUN apt-get install -y nodejs npm
