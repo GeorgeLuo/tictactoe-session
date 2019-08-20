@@ -25,4 +25,4 @@ The Dockerfile is monstrous, the flask server, redis server and node client dese
 * `http://localhost/join/x` -> lets you play as `X`’s
 * `http://localhost/join/o` -> lets you play as `O`’s
 
-At the time of writing, this is hosted on quantumblack.org:8000/join/x.
+At the time of writing, this is hosted on http://quantumblack.org:8000/join/x
